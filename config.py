@@ -1,4 +1,3 @@
-# APP_PASSWORD = "kgiy emku rfsx ustq"
 PATH = r"C:/Users/mason/python/python-email-trades-practice/credentials.json"
 
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
