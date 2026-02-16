@@ -11,8 +11,8 @@ This repository is a practice project to learn how to:
 2. Support for password-protected PDF files
 3. Extraction of key data fields such as:
   - Ticker / Stock Name
-  b. Buy / Sell
-  c. Quantity / Price / Fees / Tax / Total
-  d. Trade Date
-  e. Source Email ID
-  f. Safe handling of missing fields for Notion integration
+  - Buy / Sell
+  - Quantity / Price / Fees / Tax / Total
+  - Trade Date
+  - Source Email ID
+  - Safe handling of missing fields for Notion integration
