@@ -20,4 +20,4 @@ from config import *
 # file_path = "transaction_records\綜合月對帳單2025年12月.pdf"
 file_path = "transaction_records\TSSCO_Bill202407.zip"
 
-parse_pdf(file_path, PDF_PASSWORD)
+parse_zip(file_path, PDF_PASSWORD)
